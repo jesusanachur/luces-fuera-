@@ -1,4 +1,4 @@
-# 🧪 Suite de Pruebas
+
 
 ## 🔍 Tipos de Pruebas Implementadas
 
